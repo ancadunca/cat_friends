@@ -1,5 +1,6 @@
 import { Card, CardBody, CardText, CardTitle, Button } from "reactstrap";
 import { Link } from "react-router-dom";
+import "skeleton-css/css/skeleton.css";
 function CatComponent({ cat }) {
   return (
     <>
